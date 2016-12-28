@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "theme-faq",
+        "-fontsettngs",
+        "-sharing"
+    ], 
+    "title": "RubyAU Documentation",
+    "structure": {
+     "readme": "welcome.md"
+  }
+}
